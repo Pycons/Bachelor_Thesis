@@ -1,0 +1,12 @@
+# File temporanei di LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+
+# File di compilazione PDF temporanei
+*.synctex.gz
