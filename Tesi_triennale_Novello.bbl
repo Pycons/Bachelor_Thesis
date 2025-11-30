@@ -37,6 +37,7 @@
       \strng{authornamehash}{a57983d2d88f086720debc40f38793aa}
       \strng{authorfullhash}{a57983d2d88f086720debc40f38793aa}
       \strng{authorfullhashraw}{a57983d2d88f086720debc40f38793aa}
+      \field{extraname}{1}
       \field{sortinit}{a}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{labelnamesource}{author}
@@ -46,6 +47,66 @@
       \field{volume}{14}
       \field{year}{2020}
       \field{pages}{024086}
+      \range{pages}{1}
+    \endentry
+    \entry{First_Evidence_2}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9833f7db838e4da3e59b94dc181ccc54}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Kun-Rok\bibnamedelima Jeon},
+           giveni={K\bibinithyphendelim R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{9833f7db838e4da3e59b94dc181ccc54}
+      \strng{fullhash}{9833f7db838e4da3e59b94dc181ccc54}
+      \strng{fullhashraw}{9833f7db838e4da3e59b94dc181ccc54}
+      \strng{bibnamehash}{9833f7db838e4da3e59b94dc181ccc54}
+      \strng{authorbibnamehash}{9833f7db838e4da3e59b94dc181ccc54}
+      \strng{authornamehash}{9833f7db838e4da3e59b94dc181ccc54}
+      \strng{authorfullhash}{9833f7db838e4da3e59b94dc181ccc54}
+      \strng{authorfullhashraw}{9833f7db838e4da3e59b94dc181ccc54}
+      \field{extraname}{2}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Applied}
+      \field{title}{Effect of Meissner screening and trapped magnetic flux on magnetization dynamics in thick Nb/Ni80Fe20/Nb trilayers}
+      \field{volume}{11}
+      \field{year}{2019}
+      \field{pages}{014061}
+      \range{pages}{1}
+    \endentry
+    \entry{First_Evidence_1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=99b3e1f952b06e19d287499be37d995a}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Lai-Lai\bibnamedelima Li},
+           giveni={L\bibinithyphendelim L\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{99b3e1f952b06e19d287499be37d995a}
+      \strng{fullhash}{99b3e1f952b06e19d287499be37d995a}
+      \strng{fullhashraw}{99b3e1f952b06e19d287499be37d995a}
+      \strng{bibnamehash}{99b3e1f952b06e19d287499be37d995a}
+      \strng{authorbibnamehash}{99b3e1f952b06e19d287499be37d995a}
+      \strng{authornamehash}{99b3e1f952b06e19d287499be37d995a}
+      \strng{authorfullhash}{99b3e1f952b06e19d287499be37d995a}
+      \strng{authorfullhashraw}{99b3e1f952b06e19d287499be37d995a}
+      \field{extraname}{3}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chinese Physics Letters}
+      \field{title}{Possible Evidence for Spin-Transfer Torque Induced by Spin-Triplet Supercurrents}
+      \field{volume}{35}
+      \field{year}{2018}
+      \field{pages}{077401}
       \range{pages}{1}
     \endentry
     \entry{Annet}{book}{}{}
@@ -99,6 +160,59 @@
       \field{labeltitlesource}{title}
       \field{title}{Structure of Matter}
       \field{year}{2015}
+    \endentry
+    \entry{Blundell}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=b887114b8f02158bca40fe716fbb3442}{%
+           family={Blundell},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b887114b8f02158bca40fe716fbb3442}
+      \strng{fullhash}{b887114b8f02158bca40fe716fbb3442}
+      \strng{fullhashraw}{b887114b8f02158bca40fe716fbb3442}
+      \strng{bibnamehash}{b887114b8f02158bca40fe716fbb3442}
+      \strng{authorbibnamehash}{b887114b8f02158bca40fe716fbb3442}
+      \strng{authornamehash}{b887114b8f02158bca40fe716fbb3442}
+      \strng{authorfullhash}{b887114b8f02158bca40fe716fbb3442}
+      \strng{authorfullhashraw}{b887114b8f02158bca40fe716fbb3442}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Magnetism in Condensed Matter}
+      \field{year}{2001}
+    \endentry
+    \entry{Proximity}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=4afdf1944771c9b206e75d98d7149d30}{%
+           family={Buzdin},
+           familyi={B\bibinitperiod},
+           given={Alexandre\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{4afdf1944771c9b206e75d98d7149d30}
+      \strng{fullhash}{4afdf1944771c9b206e75d98d7149d30}
+      \strng{fullhashraw}{4afdf1944771c9b206e75d98d7149d30}
+      \strng{bibnamehash}{4afdf1944771c9b206e75d98d7149d30}
+      \strng{authorbibnamehash}{4afdf1944771c9b206e75d98d7149d30}
+      \strng{authornamehash}{4afdf1944771c9b206e75d98d7149d30}
+      \strng{authorfullhash}{4afdf1944771c9b206e75d98d7149d30}
+      \strng{authorfullhashraw}{4afdf1944771c9b206e75d98d7149d30}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Reviews of modern physics}
+      \field{title}{Proximity effects in superconductor-ferromagnet heterostructures}
+      \field{volume}{77(3)}
+      \field{year}{2005}
+      \field{pages}{935\bibrangedash 976}
+      \range{pages}{42}
     \endentry
     \entry{Griffiths}{book}{}{}
       \name{author}{1}{}{%

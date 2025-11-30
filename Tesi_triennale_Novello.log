@@ -1,0 +1,1567 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.7)  27 NOV 2025 17:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Tesi_triennale_Novello.tex
+(Tesi_triennale_Novello.tex
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@chapter=\count276
+\c@section=\count277
+\c@subsection=\count278
+\c@subsubsection=\count279
+\c@paragraph=\count280
+\c@subparagraph=\count281
+\c@figure=\count282
+\c@table=\count283
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/06/16 v2.17y AMS math features
+\@mathmargin=\skip51
+For additional information on amsmath, use the `?' option.
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen151
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count284
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count285
+\leftroot@=\count286
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count287
+\DOTSCASE@=\count288
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count289
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count290
+\dotsspace@=\muskip17
+\c@parentequation=\count291
+\dspbrk@lvl=\count292
+\tag@help=\toks19
+\row@=\count293
+\column@=\count294
+\maxfields@=\count295
+\andhelp@=\toks20
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2949.
+LaTeX Info: Redefining \] on input line 2950.
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\empheq.sty
+Package: empheq 2024/08/09 v2.17 Emphasizing equations
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.sty
+Package: mathtools 2024/10/04 v1.31 mathematical typesetting tools
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count296
+\calc@Bcount=\count297
+\calc@Adimen=\dimen160
+\calc@Bdimen=\dimen161
+\calc@Askip=\skip54
+\calc@Bskip=\skip55
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count298
+\calc@Cskip=\skip56
+)
+\g_MT_multlinerow_int=\count299
+\l_MT_multwidth_dim=\dimen162
+\origjot=\skip57
+\l_MT_shortvdotswithinadjustabove_dim=\dimen163
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen164
+\l_MT_above_intertext_sep=\dimen165
+\l_MT_below_intertext_sep=\dimen166
+\l_MT_above_shortintertext_sep=\dimen167
+\l_MT_below_shortintertext_sep=\dimen168
+\xmathstrut@box=\box55
+\xmathstrut@dim=\dimen169
+)
+\l_EQ_equationtype_int=\count300
+\l_EQ_alignmentmode_int=\count301
+\l_EQ_totalwidth_dim=\dimen170
+\l_EQ_displaywidth_dim=\dimen171
+\l_EQ_temp_linewidth_dim=\dimen172
+\l_EQ_linewidth_dim=\dimen173
+\EmphEqdelimitershortfall=\dimen174
+\EmphEqdelimiterfactor=\count302
+\g_EQ_toptag_height_dim=\dimen175
+\g_EQ_bottomtag_depth_dim=\dimen176
+\g_EQ_toprow_height_dim=\dimen177
+\g_EQ_bottomrow_depth_dim=\dimen178
+\g_EQ_widesttag_dim=\dimen179
+\EQ_mathdisplay_box=\box56
+\EQ_tag_box=\box57
+\g_EQ_temprow_int=\count303
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/physics\physics.sty
+Package: physics 
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-09-02 L3 programming layer (loader) 
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count304
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen180
+\captionmargin=\dimen181
+\caption@leftmargin=\dimen182
+\caption@rightmargin=\dimen183
+\caption@width=\dimen184
+\caption@indent=\dimen185
+\caption@parindent=\dimen186
+\caption@hangindent=\dimen187
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count305
+\c@continuedfloat=\count306
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count307
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count308
+) (C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/braket\braket.sty)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read2
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.s
+ty
+Package: circuitikz 2025/07/08{} The CircuiTikz circuit drawing package version
+ 1.8.2
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen188
+\pgfutil@tempdimb=\dimen189
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box58
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen190
+\pgf@y=\dimen191
+\pgf@xa=\dimen192
+\pgf@ya=\dimen193
+\pgf@xb=\dimen194
+\pgf@yb=\dimen195
+\pgf@xc=\dimen196
+\pgf@yc=\dimen197
+\pgf@xd=\dimen198
+\pgf@yd=\dimen199
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count309
+\c@pgf@countb=\count310
+\c@pgf@countc=\count311
+\c@pgf@countd=\count312
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count313
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count314
+\pgfsyssoftpath@bigbuffer@items=\count315
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen256
+\pgfmath@count=\count316
+\pgfmath@box=\box59
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count317
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen257
+\pgf@picmaxx=\dimen258
+\pgf@picminy=\dimen259
+\pgf@picmaxy=\dimen260
+\pgf@pathminx=\dimen261
+\pgf@pathmaxx=\dimen262
+\pgf@pathminy=\dimen263
+\pgf@pathmaxy=\dimen264
+\pgf@xx=\dimen265
+\pgf@xy=\dimen266
+\pgf@yx=\dimen267
+\pgf@yy=\dimen268
+\pgf@zx=\dimen269
+\pgf@zy=\dimen270
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen271
+\pgf@path@lasty=\dimen272
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen273
+\pgf@shorten@start@additional=\dimen274
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
+\pgf@picture@serial@count=\count318
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen275
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen276
+\pgf@pt@y=\dimen277
+\pgf@pt@temp=\dimen278
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen279
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen280
+\pgf@sys@shading@range@num=\count319
+\pgf@shadingcount=\count320
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box63
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box64
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen281
+\pgf@nodesepend=\dimen282
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen283
+\pgffor@skip=\dimen284
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count321
+\pgfplotmarksize=\dimen285
+)
+\tikz@lastx=\dimen286
+\tikz@lasty=\dimen287
+\tikz@lastxsaved=\dimen288
+\tikz@lastysaved=\dimen289
+\tikz@lastmovetox=\dimen290
+\tikz@lastmovetoy=\dimen291
+\tikzleveldistance=\dimen292
+\tikzsiblingdistance=\dimen293
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
+\tikztreelevel=\count322
+\tikznumberofchildren=\count323
+\tikznumberofcurrentchild=\count324
+\tikz@fig@count=\count325
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count326
+\pgfmatrixcurrentcolumn=\count327
+\pgf@matrix@numberofcolumns=\count328
+)
+\tikz@expandcount=\count329
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen294
+\pgfarrowlength=\dimen295
+\pgfarrowwidth=\dimen296
+\pgfarrowlinewidth=\dimen297
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+bending.code.tex
+File: pgfmodulebending.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+nonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgftransformnonlinearflatness=\dimen298
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+arycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@curvilinear@time@a=\dimen299
+\pgf@curvilinear@length@a=\dimen300
+\pgf@curvilinear@length@b=\dimen301
+\pgf@curvilinear@length@c=\dimen302
+\pgf@curvilinear@length@d=\dimen303
+)
+\pgf@arrows@the@rigidity=\dimen304
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfpu.code.tex
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.de
+fines.tex
+\pgf@circ@count@a=\count330
+\pgf@circ@count@b=\count331
+\pgf@circ@count@c=\count332
+\pgf@circ@res@up=\dimen305
+\pgf@circ@res@down=\dimen306
+\pgf@circ@res@zero=\dimen307
+\pgf@circ@res@left=\dimen308
+\pgf@circ@res@right=\dimen309
+\pgf@circ@res@other=\dimen310
+\pgf@circ@res@step=\dimen311
+\pgf@circ@res@temp=\dimen312
+\pgf@circ@Rlen=\dimen313
+\pgf@circ@scaled@Rlen=\dimen314
+\pgfstartlinewidth=\dimen315
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircuti
+ls.tex
+\ctikz@scratchbox=\box69
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpat
+h.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircsha
+pes.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmon
+opoles.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbip
+oles.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctri
+poles.tex
+\pgf@circ@res@count=\count333
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircqua
+dpoles.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmul
+tipoles.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclab
+el.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvol
+tage.tex
+\pgfcirc@labelshift=\dimen316
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccur
+rent.tex)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflo
+w.tex)) (C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count334
+\float@exts=\toks37
+\float@box=\box70
+\@float@everytoks=\toks38
+\@floatcapt=\box71
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.s
+ty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count335
+\cp@tempcnt=\count336
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count337
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)) (C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count338
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count339
+\c@listtotal=\count340
+\c@listcount=\count341
+\c@liststart=\count342
+\c@liststop=\count343
+\c@citecount=\count344
+\c@citetotal=\count345
+\c@multicitecount=\count346
+\c@multicitetotal=\count347
+\c@instcount=\count348
+\c@maxnames=\count349
+\c@minnames=\count350
+\c@maxitems=\count351
+\c@minitems=\count352
+\c@citecounter=\count353
+\c@maxcitecounter=\count354
+\c@savedcitecounter=\count355
+\c@uniquelist=\count356
+\c@uniquename=\count357
+\c@refsection=\count358
+\c@refsegment=\count359
+\c@maxextratitle=\count360
+\c@maxextratitleyear=\count361
+\c@maxextraname=\count362
+\c@maxextradate=\count363
+\c@maxextraalpha=\count364
+\c@abbrvpenalty=\count365
+\c@highnamepenalty=\count366
+\c@lownamepenalty=\count367
+\c@maxparens=\count368
+\c@parenlevel=\count369
+\blx@tempcnta=\count370
+\blx@tempcntb=\count371
+\blx@tempcntc=\count372
+\c@blx@maxsection=\count373
+\blx@maxsegment@0=\count374
+\blx@notetype=\count375
+\blx@parenlevel@text=\count376
+\blx@parenlevel@foot=\count377
+\blx@sectionciteorder@0=\count378
+\blx@sectionciteorderinternal@0=\count379
+\blx@entrysetcounter=\count380
+\blx@biblioinstance=\count381
+\labelnumberwidth=\skip58
+\labelalphawidth=\skip59
+\biblabelsep=\skip60
+\bibitemsep=\skip61
+\bibnamesep=\skip62
+\bibinitsep=\skip63
+\bibparsep=\skip64
+\bibhang=\skip65
+\blx@bcfin=\read4
+\blx@bcfout=\write4
+\blx@langwohyphens=\language79
+\c@mincomprange=\count382
+\c@maxcomprange=\count383
+\c@mincompwidth=\count384
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count385
+\c@savedafterword=\count386
+\c@annotator=\count387
+\c@savedannotator=\count388
+\c@author=\count389
+\c@savedauthor=\count390
+\c@bookauthor=\count391
+\c@savedbookauthor=\count392
+\c@commentator=\count393
+\c@savedcommentator=\count394
+\c@editor=\count395
+\c@savededitor=\count396
+\c@editora=\count397
+\c@savededitora=\count398
+\c@editorb=\count399
+\c@savededitorb=\count400
+\c@editorc=\count401
+\c@savededitorc=\count402
+\c@foreword=\count403
+\c@savedforeword=\count404
+\c@holder=\count405
+\c@savedholder=\count406
+\c@introduction=\count407
+\c@savedintroduction=\count408
+\c@namea=\count409
+\c@savednamea=\count410
+\c@nameb=\count411
+\c@savednameb=\count412
+\c@namec=\count413
+\c@savednamec=\count414
+\c@translator=\count415
+\c@savedtranslator=\count416
+\c@shortauthor=\count417
+\c@savedshortauthor=\count418
+\c@shorteditor=\count419
+\c@savedshorteditor=\count420
+\c@labelname=\count421
+\c@savedlabelname=\count422
+\c@institution=\count423
+\c@savedinstitution=\count424
+\c@lista=\count425
+\c@savedlista=\count426
+\c@listb=\count427
+\c@savedlistb=\count428
+\c@listc=\count429
+\c@savedlistc=\count430
+\c@listd=\count431
+\c@savedlistd=\count432
+\c@liste=\count433
+\c@savedliste=\count434
+\c@listf=\count435
+\c@savedlistf=\count436
+\c@location=\count437
+\c@savedlocation=\count438
+\c@organization=\count439
+\c@savedorganization=\count440
+\c@origlocation=\count441
+\c@savedoriglocation=\count442
+\c@origpublisher=\count443
+\c@savedorigpublisher=\count444
+\c@publisher=\count445
+\c@savedpublisher=\count446
+\c@language=\count447
+\c@savedlanguage=\count448
+\c@origlanguage=\count449
+\c@savedoriglanguage=\count450
+\c@pageref=\count451
+\c@savedpageref=\count452
+\shorthandwidth=\skip66
+\shortjournalwidth=\skip67
+\shortserieswidth=\skip68
+\shorttitlewidth=\skip69
+\shortauthorwidth=\skip70
+\shorteditorwidth=\skip71
+\locallabelnumberwidth=\skip72
+\locallabelalphawidth=\skip73
+\localshorthandwidth=\skip74
+\localshortjournalwidth=\skip75
+\localshortserieswidth=\skip76
+\localshorttitlewidth=\skip77
+\localshortauthorwidth=\skip78
+\localshorteditorwidth=\skip79
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
+\c@textcitecount=\count453
+\c@textcitetotal=\count454
+\c@textcitemaxnames=\count455
+\c@biburlbigbreakpenalty=\count456
+\c@biburlbreakpenalty=\count457
+\c@biburlnumpenalty=\count458
+\c@biburlucpenalty=\count459
+\c@biburllcpenalty=\count460
+\biburlbigskip=\muskip19
+\biburlnumskip=\muskip20
+\biburlucskip=\muskip21
+\biburllcskip=\muskip22
+\c@smartand=\count461
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
+File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count462
+\c@bbx:relatedtotal=\count463
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric.cb
+x
+File: numeric.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2025-09-02 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
+))
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip80
+\f@nch@offset@elh=\skip81
+\f@nch@offset@erh=\skip82
+\f@nch@offset@olh=\skip83
+\f@nch@offset@orh=\skip84
+\f@nch@offset@elf=\skip85
+\f@nch@offset@erf=\skip86
+\f@nch@offset@olf=\skip87
+\f@nch@offset@orf=\skip88
+\f@nch@height=\skip89
+\f@nch@footalignment=\skip90
+\f@nch@widthL=\skip91
+\f@nch@widthC=\skip92
+\f@nch@widthR=\skip93
+\@temptokenb=\toks39
+)
+\@quotelevel=\count464
+\@quotereset=\count465
+
+(Tesi_triennale_Novello.aux)
+\openout1 = `Tesi_triennale_Novello.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count466
+\scratchdimen=\dimen317
+\scratchbox=\box72
+\nofMPsegments=\count467
+\nofMParguments=\count468
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count469
+\MPscratchDim=\dimen318
+\MPnumerator=\count470
+\makeMPintoPDFobject=\count471
+\everyMPtoPDFconversion=\toks41
+)
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\Hy@linkcounter=\count472
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen319
+\caption@adjustwidth@linewidth=\dimen320
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `Tesi_triennale_Novello.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Tesi_triennale_Novello.bbl' found.
+ (Tesi_triennale_Novello.bbl)
+Package biblatex Info: Reference section=0 on input line 45.
+Package biblatex Info: Reference segment=0 on input line 45.
+<Immagini/unipv_logo_new.jpg, id=4, 816.651pt x 325.215pt>
+File: Immagini/unipv_logo_new.jpg Graphic file (type jpg)
+<use Immagini/unipv_logo_new.jpg>
+Package pdftex.def Info: Immagini/unipv_logo_new.jpg  used on input line 48.
+(pdftex.def)             Requested size: 272.99881pt x 108.7157pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
+
+
+
+[1
+
+
+{C:/Users/leona/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Immagini/u
+nipv_logo_new.jpg>] (Tesi_triennale_Novello.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(C:\Users\leona\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write5
+\openout5 = `Tesi_triennale_Novello.toc'.
+
+
+
+[1
+
+]
+Chapter 1.
+
+
+[2
+
+]
+Chapter 2.
+
+
+[3
+
+]
+
+[4]
+
+[5]
+<Immagini/Magnetism_images/Hysteresis.jpg, id=35, 355.3275pt x 183.68625pt>
+File: Immagini/Magnetism_images/Hysteresis.jpg Graphic file (type jpg)
+<use Immagini/Magnetism_images/Hysteresis.jpg>
+Package pdftex.def Info: Immagini/Magnetism_images/Hysteresis.jpg  used on inpu
+t line 232.
+(pdftex.def)             Requested size: 390.0pt x 201.61542pt.
+
+
+[6 <./Immagini/Magnetism_images/Hysteresis.jpg>]
+
+[7]
+
+[8]
+<Immagini/Superconductivity_images/Rho_vs_T_superconductor.jpg, id=49, 355.9297
+5pt x 286.06876pt>
+File: Immagini/Superconductivity_images/Rho_vs_T_superconductor.jpg Graphic fil
+e (type jpg)
+<use Immagini/Superconductivity_images/Rho_vs_T_superconductor.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Rho_vs_T_superconduc
+tor.jpg  used on input line 315.
+(pdftex.def)             Requested size: 234.00238pt x 188.07263pt.
+
+
+[9]
+<Immagini/Superconductivity_images/Meissner_5.png, id=54, 2966.83406pt x 1771.3
+6781pt>
+File: Immagini/Superconductivity_images/Meissner_5.png Graphic file (type png)
+<use Immagini/Superconductivity_images/Meissner_5.png>
+Package pdftex.def Info: Immagini/Superconductivity_images/Meissner_5.png  used
+ on input line 326.
+(pdftex.def)             Requested size: 390.0pt x 232.82661pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[10 <./Immagini/Superconductivity_images/Rho_vs_T_superconductor.jpg>]
+<Immagini/Superconductivity_images/Suscettivita_T.jpg, id=59, 308.352pt x 166.8
+2326pt>
+File: Immagini/Superconductivity_images/Suscettivita_T.jpg Graphic file (type j
+pg)
+<use Immagini/Superconductivity_images/Suscettivita_T.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Suscettivita_T.jpg  
+used on input line 355.
+(pdftex.def)             Requested size: 272.99881pt x 147.69838pt.
+
+
+[11 <./Immagini/Superconductivity_images/Meissner_5.png>]
+<Immagini/Superconductivity_images/M_H_1_vs_2.jpg, id=64, 449.2785pt x 214.401p
+t>
+File: Immagini/Superconductivity_images/M_H_1_vs_2.jpg Graphic file (type jpg)
+<use Immagini/Superconductivity_images/M_H_1_vs_2.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/M_H_1_vs_2.jpg  used
+ on input line 369.
+(pdftex.def)             Requested size: 350.99762pt x 167.51018pt.
+
+
+[12 <./Immagini/Superconductivity_images/Suscettivita_T.jpg>]
+<Immagini/Superconductivity_images/Type_1_vs_2.jpg, id=69, 455.90324pt x 228.85
+5pt>
+File: Immagini/Superconductivity_images/Type_1_vs_2.jpg Graphic file (type jpg)
+
+<use Immagini/Superconductivity_images/Type_1_vs_2.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Type_1_vs_2.jpg  use
+d on input line 376.
+(pdftex.def)             Requested size: 350.99762pt x 176.20142pt.
+<Immagini/Superconductivity_images/Type_2_vortices.jpg, id=70, 290.2845pt x 163
+.20975pt>
+File: Immagini/Superconductivity_images/Type_2_vortices.jpg Graphic file (type 
+jpg)
+<use Immagini/Superconductivity_images/Type_2_vortices.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Type_2_vortices.jpg 
+ used on input line 384.
+(pdftex.def)             Requested size: 312.00119pt x 175.41965pt.
+
+
+[13 <./Immagini/Superconductivity_images/M_H_1_vs_2.jpg> <./Immagini/Supercondu
+ctivity_images/Type_1_vs_2.jpg>]
+
+[14 <./Immagini/Superconductivity_images/Type_2_vortices.jpg>]
+<Immagini/Superconductivity_images/Penetrazion_x.jpg, id=77, 401.0985pt x 363.1
+5675pt>
+File: Immagini/Superconductivity_images/Penetrazion_x.jpg Graphic file (type jp
+g)
+<use Immagini/Superconductivity_images/Penetrazion_x.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Penetrazion_x.jpg  u
+sed on input line 418.
+(pdftex.def)             Requested size: 195.0pt x 176.55194pt.
+<Immagini/Superconductivity_images/London_depth.jpg, id=78, 248.127pt x 215.003
+25pt>
+File: Immagini/Superconductivity_images/London_depth.jpg Graphic file (type jpg
+)
+<use Immagini/Superconductivity_images/London_depth.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/London_depth.jpg  us
+ed on input line 433.
+(pdftex.def)             Requested size: 214.50119pt x 185.86697pt.
+
+
+[15 <./Immagini/Superconductivity_images/Penetrazion_x.jpg>]
+
+[16 <./Immagini/Superconductivity_images/London_depth.jpg>]
+<Immagini/Superconductivity_images/Landau_gobba.jpg, id=85, 500.46976pt x 277.0
+35pt>
+File: Immagini/Superconductivity_images/Landau_gobba.jpg Graphic file (type jpg
+)
+<use Immagini/Superconductivity_images/Landau_gobba.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Landau_gobba.jpg  us
+ed on input line 455.
+(pdftex.def)             Requested size: 272.99881pt x 151.1269pt.
+
+
+[17 <./Immagini/Superconductivity_images/Landau_gobba.jpg>]
+
+[18]
+<Immagini/Superconductivity_images/Coerenza.jpg, id=94, 208.98074pt x 142.131pt
+>
+File: Immagini/Superconductivity_images/Coerenza.jpg Graphic file (type jpg)
+<use Immagini/Superconductivity_images/Coerenza.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Coerenza.jpg  used o
+n input line 491.
+(pdftex.def)             Requested size: 234.00238pt x 159.15524pt.
+
+
+[19 <./Immagini/Superconductivity_images/Coerenza.jpg>]
+<Immagini/Superconductivity_images/Feynmann_phonon.jpg, id=98, 353.52075pt x 21
+5.00325pt>
+File: Immagini/Superconductivity_images/Feynmann_phonon.jpg Graphic file (type 
+jpg)
+<use Immagini/Superconductivity_images/Feynmann_phonon.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Feynmann_phonon.jpg 
+ used on input line 552.
+(pdftex.def)             Requested size: 234.00238pt x 142.31593pt.
+
+
+[20]
+Overfull \hbox (3.16397pt too wide) in paragraph at lines 558--559
+[]\OT1/cmr/m/n/12 This ef-fec-tive in-ter-ac-tion be-tween the elec-trons due t
+o ex-change of phonons
+ []
+
+
+
+[21 <./Immagini/Superconductivity_images/Feynmann_phonon.jpg>]
+<Immagini/Superconductivity_images/Fermi_surface_1.jpg, id=105, 387.24675pt x 2
+17.41225pt>
+File: Immagini/Superconductivity_images/Fermi_surface_1.jpg Graphic file (type 
+jpg)
+<use Immagini/Superconductivity_images/Fermi_surface_1.jpg>
+Package pdftex.def Info: Immagini/Superconductivity_images/Fermi_surface_1.jpg 
+ used on input line 573.
+(pdftex.def)             Requested size: 272.99881pt x 153.27896pt.
+
+
+[22 <./Immagini/Superconductivity_images/Fermi_surface_1.jpg>]
+
+[23]
+
+[24]
+
+[25]
+<Immagini/Proximity_images/S_F_Landau.jpg, id=121, 252.945pt x 148.75575pt>
+File: Immagini/Proximity_images/S_F_Landau.jpg Graphic file (type jpg)
+<use Immagini/Proximity_images/S_F_Landau.jpg>
+Package pdftex.def Info: Immagini/Proximity_images/S_F_Landau.jpg  used on inpu
+t line 680.
+(pdftex.def)             Requested size: 234.00238pt x 137.61732pt.
+
+Overfull \hbox (3.22925pt too wide) in paragraph at lines 684--685
+\OT1/cmr/m/n/12 tems, and it is at the ori-gin of many pe-cu-liar char-ac-ter-i
+s-tics of superconductor-
+ []
+
+
+
+[26 <./Immagini/Proximity_images/S_F_Landau.jpg>]
+<Immagini/Proximity_images/Sample_Geometry.jpg, id=125, 383.031pt x 202.356pt>
+File: Immagini/Proximity_images/Sample_Geometry.jpg Graphic file (type jpg)
+<use Immagini/Proximity_images/Sample_Geometry.jpg>
+Package pdftex.def Info: Immagini/Proximity_images/Sample_Geometry.jpg  used on
+ input line 691.
+(pdftex.def)             Requested size: 312.00119pt x 164.84303pt.
+<Immagini/Proximity_images/Assorbimento_SFS.jpg, id=126, 860.013pt x 415.5525pt
+>
+File: Immagini/Proximity_images/Assorbimento_SFS.jpg Graphic file (type jpg)
+<use Immagini/Proximity_images/Assorbimento_SFS.jpg>
+Package pdftex.def Info: Immagini/Proximity_images/Assorbimento_SFS.jpg  used o
+n input line 704.
+(pdftex.def)             Requested size: 390.0pt x 188.4426pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[27 <./Immagini/Proximity_images/Sample_Geometry.jpg>]
+<Immagini/Proximity_images/First_Shift_Hres.jpg, id=130, 308.352pt x 311.9655pt
+>
+File: Immagini/Proximity_images/First_Shift_Hres.jpg Graphic file (type jpg)
+<use Immagini/Proximity_images/First_Shift_Hres.jpg>
+Package pdftex.def Info: Immagini/Proximity_images/First_Shift_Hres.jpg  used o
+n input line 713.
+(pdftex.def)             Requested size: 272.99881pt x 276.20131pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[28 <./Immagini/Proximity_images/Assorbimento_SFS.jpg>]
+<Immagini/Proximity_images/Control.jpg, id=134, 548.64975pt x 281.25075pt>
+File: Immagini/Proximity_images/Control.jpg Graphic file (type jpg)
+<use Immagini/Proximity_images/Control.jpg>
+Package pdftex.def Info: Immagini/Proximity_images/Control.jpg  used on input l
+ine 724.
+(pdftex.def)             Requested size: 350.99762pt x 179.93547pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[29 <./Immagini/Proximity_images/First_Shift_Hres.jpg>]
+<Immagini/Proximity_images/Anisotropy_fit.jpg, id=138, 332.442pt x 319.1925pt>
+File: Immagini/Proximity_images/Anisotropy_fit.jpg Graphic file (type jpg)
+<use Immagini/Proximity_images/Anisotropy_fit.jpg>
+Package pdftex.def Info: Immagini/Proximity_images/Anisotropy_fit.jpg  used on 
+input line 742.
+(pdftex.def)             Requested size: 175.49881pt x 168.50395pt.
+<Immagini/Proximity_images/Anisotropy_fit_2.jpg, id=139, 278.2395pt x 264.99pt>
+
+File: Immagini/Proximity_images/Anisotropy_fit_2.jpg Graphic file (type jpg)
+<use Immagini/Proximity_images/Anisotropy_fit_2.jpg>
+Package pdftex.def Info: Immagini/Proximity_images/Anisotropy_fit_2.jpg  used o
+n input line 748.
+(pdftex.def)             Requested size: 175.49881pt x 167.1427pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[30 <./Immagini/Proximity_images/Control.jpg>]
+
+[31 <./Immagini/Proximity_images/Anisotropy_fit.jpg> <./Immagini/Proximity_imag
+es/Anisotropy_fit_2.jpg>]
+Chapter 3.
+
+
+[32
+
+]
+Overfull \hbox (0.77798pt too wide) in paragraph at lines 843--909
+[]\OT1/cmr/m/n/12 These sam-ples were grown by DC mag-netron sput-ter-ing, a ph
+ys-i-cal vapour
+ []
+
+
+
+[33]
+
+LaTeX Warning: Reference `Samples_dimensions_3' on page 34 undefined on input l
+ine 910.
+
+
+
+[34]
+<Immagini/Experimental_setup_images/AFM_scheme.jpg, id=159, 395.67825pt x 227.0
+4825pt>
+File: Immagini/Experimental_setup_images/AFM_scheme.jpg Graphic file (type jpg)
+
+<use Immagini/Experimental_setup_images/AFM_scheme.jpg>
+Package pdftex.def Info: Immagini/Experimental_setup_images/AFM_scheme.jpg  use
+d on input line 953.
+(pdftex.def)             Requested size: 292.5pt x 167.85023pt.
+
+
+[35 <./Immagini/Experimental_setup_images/AFM_scheme.jpg>]
+<Immagini/Experimental_setup_images/Probe_setup.jpg, id=163, 617.9085pt x 354.1
+23pt>
+File: Immagini/Experimental_setup_images/Probe_setup.jpg Graphic file (type jpg
+)
+<use Immagini/Experimental_setup_images/Probe_setup.jpg>
+Package pdftex.def Info: Immagini/Experimental_setup_images/Probe_setup.jpg  us
+ed on input line 964.
+(pdftex.def)             Requested size: 390.0pt x 223.50392pt.
+
+
+[36]
+<Immagini/Experimental_setup_images/Probe_picture_3.jpg, id=168, 561.297pt x 33
+4.851pt>
+File: Immagini/Experimental_setup_images/Probe_picture_3.jpg Graphic file (type
+ jpg)
+<use Immagini/Experimental_setup_images/Probe_picture_3.jpg>
+Package pdftex.def Info: Immagini/Experimental_setup_images/Probe_picture_3.jpg
+  used on input line 971.
+(pdftex.def)             Requested size: 390.0pt x 232.662pt.
+
+
+[37 <./Immagini/Experimental_setup_images/Probe_setup.jpg> <./Immagini/Experime
+ntal_setup_images/Probe_picture_3.jpg>]
+
+[38]
+<Immagini/Experimental_setup_images/Lorentzian_signal.jpg, id=175, 440.847pt x 
+280.6485pt>
+File: Immagini/Experimental_setup_images/Lorentzian_signal.jpg Graphic file (ty
+pe jpg)
+<use Immagini/Experimental_setup_images/Lorentzian_signal.jpg>
+Package pdftex.def Info: Immagini/Experimental_setup_images/Lorentzian_signal.j
+pg  used on input line 1057.
+(pdftex.def)             Requested size: 312.00119pt x 198.62375pt.
+
+
+[39]
+
+[40 <./Immagini/Experimental_setup_images/Lorentzian_signal.jpg>]
+Chapter 4.
+<Immagini/Data_images/Control_sample_images/raw_plots_pages-to-jpg-0137.jpg, id
+=182, 433.62pt x 289.08pt>
+File: Immagini/Data_images/Control_sample_images/raw_plots_pages-to-jpg-0137.jp
+g Graphic file (type jpg)
+<use Immagini/Data_images/Control_sample_images/raw_plots_pages-to-jpg-0137.jpg
+>
+Package pdftex.def Info: Immagini/Data_images/Control_sample_images/raw_plots_p
+ages-to-jpg-0137.jpg  used on input line 1077.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+
+
+[41
+
+]
+<Immagini/Data_images/Control_sample_images/all_linear_fits_page-0137.jpg, id=1
+86, 433.62pt x 289.08pt>
+File: Immagini/Data_images/Control_sample_images/all_linear_fits_page-0137.jpg 
+Graphic file (type jpg)
+<use Immagini/Data_images/Control_sample_images/all_linear_fits_page-0137.jpg>
+Package pdftex.def Info: Immagini/Data_images/Control_sample_images/all_linear_
+fits_page-0137.jpg  used on input line 1085.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+
+
+[42 <./Immagini/Data_images/Control_sample_images/raw_plots_pages-to-jpg-0137.j
+pg>]
+<Immagini/Data_images/Control_sample_images/guesses_page-0137.jpg, id=191, 433.
+62pt x 289.08pt>
+File: Immagini/Data_images/Control_sample_images/guesses_page-0137.jpg Graphic 
+file (type jpg)
+<use Immagini/Data_images/Control_sample_images/guesses_page-0137.jpg>
+Package pdftex.def Info: Immagini/Data_images/Control_sample_images/guesses_pag
+e-0137.jpg  used on input line 1103.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+
+
+[43 <./Immagini/Data_images/Control_sample_images/all_linear_fits_page-0137.jpg
+>]
+<Immagini/Data_images/Control_sample_images/fits_page-0137.jpg, id=195, 433.62p
+t x 289.08pt>
+File: Immagini/Data_images/Control_sample_images/fits_page-0137.jpg Graphic fil
+e (type jpg)
+<use Immagini/Data_images/Control_sample_images/fits_page-0137.jpg>
+Package pdftex.def Info: Immagini/Data_images/Control_sample_images/fits_page-0
+137.jpg  used on input line 1110.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+
+
+[44 <./Immagini/Data_images/Control_sample_images/guesses_page-0137.jpg> <./Imm
+agini/Data_images/Control_sample_images/fits_page-0137.jpg>]
+<Immagini/Data_images/Control_sample_images/Kittel_fits_page-0005.jpg, id=199, 
+433.62pt x 289.08pt>
+File: Immagini/Data_images/Control_sample_images/Kittel_fits_page-0005.jpg Grap
+hic file (type jpg)
+<use Immagini/Data_images/Control_sample_images/Kittel_fits_page-0005.jpg>
+Package pdftex.def Info: Immagini/Data_images/Control_sample_images/Kittel_fits
+_page-0005.jpg  used on input line 1123.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+<Immagini/Data_images/Control_sample_images/Kittel_in_one_page-0001 (1).jpg, id
+=200, 433.62pt x 289.08pt>
+File: Immagini/Data_images/Control_sample_images/Kittel_in_one_page-0001 (1).jp
+g Graphic file (type jpg)
+<use Immagini/Data_images/Control_sample_images/Kittel_in_one_page-0001 (1).jpg
+>
+Package pdftex.def Info: Immagini/Data_images/Control_sample_images/Kittel_in_o
+ne_page-0001 (1).jpg  used on input line 1130.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+
+
+[45 <./Immagini/Data_images/Control_sample_images/Kittel_fits_page-0005.jpg>]
+<Immagini/Data_images/Control_sample_images/Ha_vs_T_page-0001.jpg, id=204, 433.
+62pt x 289.08pt>
+File: Immagini/Data_images/Control_sample_images/Ha_vs_T_page-0001.jpg Graphic 
+file (type jpg)
+<use Immagini/Data_images/Control_sample_images/Ha_vs_T_page-0001.jpg>
+Package pdftex.def Info: Immagini/Data_images/Control_sample_images/Ha_vs_T_pag
+e-0001.jpg  used on input line 1138.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+
+
+[46 <./Immagini/Data_images/Control_sample_images/Kittel_in_one_page-0001 (1).j
+pg>]
+<Immagini/Data_images/Control_sample_images/Ha_fit_page-0001.jpg, id=208, 433.6
+2pt x 289.08pt>
+File: Immagini/Data_images/Control_sample_images/Ha_fit_page-0001.jpg Graphic f
+ile (type jpg)
+<use Immagini/Data_images/Control_sample_images/Ha_fit_page-0001.jpg>
+Package pdftex.def Info: Immagini/Data_images/Control_sample_images/Ha_fit_page
+-0001.jpg  used on input line 1153.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+
+
+[47 <./Immagini/Data_images/Control_sample_images/Ha_vs_T_page-0001.jpg>]
+
+[48 <./Immagini/Data_images/Control_sample_images/Ha_fit_page-0001.jpg>]
+<Immagini/Data_images/Bilayer_images/Bilayer_Ha_vs_T_page-0001.jpg, id=216, 433
+.62pt x 289.08pt>
+File: Immagini/Data_images/Bilayer_images/Bilayer_Ha_vs_T_page-0001.jpg Graphic
+ file (type jpg)
+<use Immagini/Data_images/Bilayer_images/Bilayer_Ha_vs_T_page-0001.jpg>
+Package pdftex.def Info: Immagini/Data_images/Bilayer_images/Bilayer_Ha_vs_T_pa
+ge-0001.jpg  used on input line 1164.
+(pdftex.def)             Requested size: 390.0pt x 260.01079pt.
+
+
+[49 <./Immagini/Data_images/Bilayer_images/Bilayer_Ha_vs_T_page-0001.jpg>]
+<Immagini/Data_images/Ha_vs_Cu.jpg, id=220, 674.52pt x 431.81325pt>
+File: Immagini/Data_images/Ha_vs_Cu.jpg Graphic file (type jpg)
+<use Immagini/Data_images/Ha_vs_Cu.jpg>
+Package pdftex.def Info: Immagini/Data_images/Ha_vs_Cu.jpg  used on input line 
+1180.
+(pdftex.def)             Requested size: 350.99762pt x 224.7023pt.
+
+
+[50 <./Immagini/Data_images/Ha_vs_Cu.jpg>]
+<Immagini/Data_images/Hres_vs_MWpower.jpg, id=224, 666.0885pt x 443.256pt>
+File: Immagini/Data_images/Hres_vs_MWpower.jpg Graphic file (type jpg)
+<use Immagini/Data_images/Hres_vs_MWpower.jpg>
+Package pdftex.def Info: Immagini/Data_images/Hres_vs_MWpower.jpg  used on inpu
+t line 1191.
+(pdftex.def)             Requested size: 350.99762pt x 233.57861pt.
+
+
+[51 <./Immagini/Data_images/Hres_vs_MWpower.jpg>]
+
+[52]
+Overfull \hbox (11.00627pt too wide) in paragraph at lines 1207--1207
+[]\OT1/cmr/m/n/12 I.A. Golovchan-skiy et al. ``Mag-ne-ti-za-tion Dy-nam-ics in 
+Proximity-Coupled
+ []
+
+
+
+[53
+
+]
+Overfull \hbox (26.61911pt too wide) in paragraph at lines 1209--1209
+[]\OT1/cmr/bx/n/24.88 Aknowlesgements/Ringraziamenti  
+ []
+
+
+
+[54
+
+] (Tesi_triennale_Novello.aux)
+ ***********
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-09-02>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package logreq Info: Writing requests to 'Tesi_triennale_Novello.run.xml'.
+\openout1 = `Tesi_triennale_Novello.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 43643 strings out of 468130
+ 1064697 string characters out of 5430633
+ 2108100 words of memory out of 5000000
+ 71837 multiletter control sequences out of 15000+600000
+ 640922 words of font info for 92 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,15n,105p,1916b,1217s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbsy10.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmbx6.pfb><C:/Users/leona/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/leona/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/leona/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/leona
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Use
+rs/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmmib10.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><C:/Users/leona/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/leona/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/leona/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/leona/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/leo
+na/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/U
+sers/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmti12.pfb><C:/Users/leona/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/symbols/msbm10.pfb>
+Output written on Tesi_triennale_Novello.pdf (55 pages, 3384492 bytes).
+PDF statistics:
+ 326 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+
